@@ -19,7 +19,7 @@ Backend :
 
 Website :
 
-https://donatepayment-gateway-integration.000webhostapp.com/
+https://manoj-chandrasekaran.github.io/Payment-Gateway-Integration/
 
 Youtube :
 https://youtu.be/RTxlJa2rFyo
