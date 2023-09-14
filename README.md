@@ -21,8 +21,7 @@ Website :
 
 https://manoj-chandrasekaran.github.io/Payment-Gateway-Integration/
 
-Youtube :
-https://youtu.be/RTxlJa2rFyo
+
 
 ![image](/assets/img/Home.png)
 ![image](/assets/img/Donate.png)
